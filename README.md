@@ -6,6 +6,12 @@ Atividade ponderada semana 01, Parte 1: Blink Led Interno
 <sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
 
+<div align="center">
+<sub>Gif 01 - Arduino realizando blink</sub>
+<img src="/assets/videoFuncionando.gif" width="100%">
+<sup>Fonte: Material produzido pelo autor (2024)</sup>
+</div>
+
 Código da imagem:
 
 ```cpp
@@ -22,3 +28,4 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // desliga o LED, definindo a tensão para LOW
   delay(300);                       // espera por 300 milissegundos
 }
+
