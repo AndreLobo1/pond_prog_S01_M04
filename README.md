@@ -6,11 +6,18 @@ Atividade ponderada semana 01, Parte 1: Blink Led Interno
 <sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
 
+
+
+
+
 <div align="center">
-<sub>Gif 01 - Arduino realizando blink</sub>
 <img src="/assets/videoFuncionando.gif" width="20%">
-<sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
+
+
+
+
+
 
 Código da imagem:
 
